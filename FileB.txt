@@ -1,2 +1,2 @@
 Thsi is fileB - version1
-version-2
+version-2.
